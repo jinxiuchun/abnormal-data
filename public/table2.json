@@ -1,0 +1,44 @@
+{
+    "list": [{
+            "id": 1,
+            "product": "boston_udp",
+            "version": "Boston C10B300",
+            "station": "Boston udp产品板",
+            "ar_type": "crash",
+            "ar_module": "com.android.bluetooth",
+            "ar_case": "monkey",
+            "ar_device": "SH123HS321",
+            "ar_heap": "com.android.bluetooth",
+            "ar_trace": "com.android.bluetooth",
+            "ar_task": "345678",
+            "ar_date": "20220505"
+        },{
+            "id": 2,
+            "product": "boston_udp",
+            "version": "Boston C10B300",
+            "station": "Boston udp产品板",
+            "ar_type": "crash",
+            "ar_module": "com.android.bluetooth",
+            "ar_case": "monkey",
+            "ar_device": "SH123HS321",
+            "ar_heap": "com.android.bluetooth",
+            "ar_trace": "com.android.bluetooth",
+            "ar_task": "345678",
+            "ar_date": "20220505"
+        },{
+            "id": 3,
+            "product": "boston_udp",
+            "version": "Boston C10B300",
+            "station": "Boston udp产品板",
+            "ar_type": "crash",
+            "ar_module": "com.android.bluetooth",
+            "ar_case": "monkey",
+            "ar_device": "SH123HS321",
+            "ar_heap": "com.android.bluetooth",
+            "ar_trace": "com.android.bluetooth",
+            "ar_task": "345678",
+            "ar_date": "20220505"
+        }
+    ],
+    "pageTotal": 3
+}
